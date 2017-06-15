@@ -3,3 +3,13 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.egg {
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+}
